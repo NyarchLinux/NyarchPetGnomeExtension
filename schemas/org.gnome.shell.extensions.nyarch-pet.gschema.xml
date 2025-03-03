@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.nyarch-pet" path="/org/gnome/shell/extensions/nyarch-pet/">
+    <key name="target-window-title" type="s">
+      <default>'nyarchpet'</default>
+      <summary>Target Window Title</summary>
+      <description>The title of the window that should be made always on top and borderless.</description>
+    </key>
+  </schema>
+</schemalist>

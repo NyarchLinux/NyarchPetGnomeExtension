@@ -1,0 +1,8 @@
+{
+  "name": "Nyarch Pet Integration",
+  "description": "Manages Nyarch Desktop Pet integration",
+  "uuid": "nyarchpet@nyarchlinux.moe",
+  "shell-version": ["47"],
+  "url": "https://github.com/NyarchLinux/NyarchPetGnomeExtension",
+  "version": 1
+}

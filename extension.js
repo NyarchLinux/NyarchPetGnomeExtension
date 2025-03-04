@@ -110,6 +110,8 @@ export default class NyarchPetExtension extends Extension {
                 win.unmaximize(Meta.MaximizeFlags.BOTH);
                 // Make the window always on top
                 win.make_above();
+                // Make the window visible on every desktop
+                win.stick();
                 this._log('Applied always-on-top and borderless');
             }
         });

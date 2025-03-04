@@ -5,4 +5,4 @@ Implemented features:
 - [x] Start as always on top
 - [ ] Get correct monitor resolution
 - [ ] Set correct window size
-- [ ] Set it visible on every desktop 
+- [x] Set it visible on every desktop 
